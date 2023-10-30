@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9
@@ -19,7 +19,6 @@ require (
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/pires/go-proxyproto v0.6.1
 	github.com/prometheus/client_golang v1.11.1
-	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/stretchr/testify v1.7.0 // indirect
 	golang.org/x/net v0.7.0
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
